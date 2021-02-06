@@ -14,7 +14,16 @@ If you find this Plugin helpful, please give me a follow on Twitter [@davidwilli
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/davidwilliames.svg?style=social&label=Follow)]()
 
-If you ***love*** this plugin, why not shout me a coffee ☕️ via [PayPal](https://www.paypal.me/dtw/5) to share the love!
+If you ***love*** this plugin, why not [shout me a coffee](https://www.buymeacoffee.com/davew) ☕️  to share the love!
+
+---
+
+## Documention
+There's brand new docs for how to use this plugin. 
+
+[Check it out](https://docs.sheetssync.app)
+
+---
 
 
 ## Roadmap
